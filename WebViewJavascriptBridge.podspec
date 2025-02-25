@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
   s.name         = 'WebViewJavascriptBridge'   #
-  s.version      = '6.0.4'                      #
+  s.version      = '6.0.5'                      #
   s.summary      = 'An iOS & macOS bridge for sending messages between Obj-C/Swift and JavaScript in WKWebViews, UIWebViews & WebViews.'
   s.homepage     = 'https://github.com/jackieliu-lb/WebViewJavascriptBridge'  #
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { 'jackieliu-lb' => 'jackie.liu@lifebyte.io' }  #
-  s.source       = { :git => 'https://github.com/jackieliu-lb/WebViewJavascriptBridge.git', :tag => 'v6.0.4' }
+  s.source       = { :git => 'https://github.com/jackieliu-lb/WebViewJavascriptBridge.git', :tag => 'v6.0.5' }
   s.platforms    = { :ios => "5.0", :osx => "10.9" }  #
   s.requires_arc = true
 
